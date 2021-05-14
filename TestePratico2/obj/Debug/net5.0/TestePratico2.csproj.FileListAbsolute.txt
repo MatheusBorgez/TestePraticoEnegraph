@@ -1,0 +1,15 @@
+C:\WorkMatheus\TestePratico\TestePratico2\bin\Debug\net5.0\TestePratico2.exe
+C:\WorkMatheus\TestePratico\TestePratico2\bin\Debug\net5.0\TestePratico2.deps.json
+C:\WorkMatheus\TestePratico\TestePratico2\bin\Debug\net5.0\TestePratico2.runtimeconfig.json
+C:\WorkMatheus\TestePratico\TestePratico2\bin\Debug\net5.0\TestePratico2.runtimeconfig.dev.json
+C:\WorkMatheus\TestePratico\TestePratico2\bin\Debug\net5.0\TestePratico2.dll
+C:\WorkMatheus\TestePratico\TestePratico2\bin\Debug\net5.0\ref\TestePratico2.dll
+C:\WorkMatheus\TestePratico\TestePratico2\bin\Debug\net5.0\TestePratico2.pdb
+C:\WorkMatheus\TestePratico\TestePratico2\obj\Debug\net5.0\TestePratico2.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkMatheus\TestePratico\TestePratico2\obj\Debug\net5.0\TestePratico2.AssemblyInfoInputs.cache
+C:\WorkMatheus\TestePratico\TestePratico2\obj\Debug\net5.0\TestePratico2.AssemblyInfo.cs
+C:\WorkMatheus\TestePratico\TestePratico2\obj\Debug\net5.0\TestePratico2.csproj.CoreCompileInputs.cache
+C:\WorkMatheus\TestePratico\TestePratico2\obj\Debug\net5.0\TestePratico2.dll
+C:\WorkMatheus\TestePratico\TestePratico2\obj\Debug\net5.0\ref\TestePratico2.dll
+C:\WorkMatheus\TestePratico\TestePratico2\obj\Debug\net5.0\TestePratico2.pdb
+C:\WorkMatheus\TestePratico\TestePratico2\obj\Debug\net5.0\TestePratico2.genruntimeconfig.cache

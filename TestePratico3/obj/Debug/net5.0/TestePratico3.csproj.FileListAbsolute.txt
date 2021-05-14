@@ -1,0 +1,16 @@
+C:\WorkMatheus\TestePratico\TestePratico3\bin\Debug\net5.0\TestePratico3.exe
+C:\WorkMatheus\TestePratico\TestePratico3\bin\Debug\net5.0\TestePratico3.deps.json
+C:\WorkMatheus\TestePratico\TestePratico3\bin\Debug\net5.0\TestePratico3.runtimeconfig.json
+C:\WorkMatheus\TestePratico\TestePratico3\bin\Debug\net5.0\TestePratico3.runtimeconfig.dev.json
+C:\WorkMatheus\TestePratico\TestePratico3\bin\Debug\net5.0\TestePratico3.dll
+C:\WorkMatheus\TestePratico\TestePratico3\bin\Debug\net5.0\ref\TestePratico3.dll
+C:\WorkMatheus\TestePratico\TestePratico3\bin\Debug\net5.0\TestePratico3.pdb
+C:\WorkMatheus\TestePratico\TestePratico3\obj\Debug\net5.0\TestePratico3.csprojAssemblyReference.cache
+C:\WorkMatheus\TestePratico\TestePratico3\obj\Debug\net5.0\TestePratico3.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkMatheus\TestePratico\TestePratico3\obj\Debug\net5.0\TestePratico3.AssemblyInfoInputs.cache
+C:\WorkMatheus\TestePratico\TestePratico3\obj\Debug\net5.0\TestePratico3.AssemblyInfo.cs
+C:\WorkMatheus\TestePratico\TestePratico3\obj\Debug\net5.0\TestePratico3.csproj.CoreCompileInputs.cache
+C:\WorkMatheus\TestePratico\TestePratico3\obj\Debug\net5.0\TestePratico3.dll
+C:\WorkMatheus\TestePratico\TestePratico3\obj\Debug\net5.0\ref\TestePratico3.dll
+C:\WorkMatheus\TestePratico\TestePratico3\obj\Debug\net5.0\TestePratico3.pdb
+C:\WorkMatheus\TestePratico\TestePratico3\obj\Debug\net5.0\TestePratico3.genruntimeconfig.cache
